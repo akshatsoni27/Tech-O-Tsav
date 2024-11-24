@@ -6,7 +6,7 @@ function redirectToSite1() {
 
 // Schedule 
 function redirectToSite2() {
-    window.location.href = "https://drive.google.com/file/d/14Ht3l6CPFDbfu5Tz5KlxOGPwpf5RYt3E/view?usp=sharing";
+    window.location.href = "https://drive.google.com/file/d/1-nU3D8E1nrOMFBP4DSXcxNpYl8pziW_S/view?usp=sharing";
 }
 
 // Event Details
