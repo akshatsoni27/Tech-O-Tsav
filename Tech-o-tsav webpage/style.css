@@ -106,7 +106,7 @@ nav.information{
     display: grid;
     margin: auto;
     place-items: center; /* Centers items both horizontally and vertically */
-    font-size: 13px;
+    font-size: 11px;
     grid-template-columns: 2fr 2fr 2fr 2fr;
     background-color: #3f96ff;
     height: auto;
@@ -456,10 +456,12 @@ footer .questions {
     .ironman {
         max-width: 100%; /* Limit the width further if needed */
         padding: 10px;   /* Add some padding around the image */
+        
     }
     .ironman1 {
         max-width: 90%;   /* Reduces the image size slightly for smaller screens */
         padding: 10px;    /* Optional: Adds padding around the image */
+        padding-top: 30px;
     }
 
     nav{
