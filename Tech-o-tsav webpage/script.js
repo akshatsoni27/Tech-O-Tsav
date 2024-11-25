@@ -11,7 +11,7 @@ function redirectToSite2() {
 
 // Event Details
 function redirectToSite3() {
-    window.location.href = "#";
+    window.location.href = "https://drive.google.com/file/d/1BmrKEnkriq9yKvz7dpvk0N11kEiOqrVw/view";
 }
 
 // 
